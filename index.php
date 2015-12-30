@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>java文本单词提取器，上传文本页面</title>
+<title>php文本单词提取器，上传文本页面</title>
 </head>
 
 <body>
@@ -17,7 +17,7 @@ enctype="multipart/form-data" >
 </p>
 </form>
 
-<P align="center">&nbsp;<FONT color=#3b3b3b>Copyright &copy; 苏州大学文正学院13物联网 Powered By<FONT color=#5b5b5b> </FONT><A href="default.php?mod=c&amp;s=ss1183c98"><FONT color=#434343>zjkfly</FONT></A> </FONT></P>
+<P align="center">&nbsp;<FONT color=#3b3b3b>Copyright &copy; 苏州大学文正学院13物联网 Powered By<FONT color=#5b5b5b> </FONT><A href="default.php?mod=c&amp;s=ss1183c98"><FONT color=#434343>顾家铭</FONT></A> </FONT></P>
 
 </body>
 </html>
